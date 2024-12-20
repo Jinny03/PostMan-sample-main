@@ -1,5 +1,3 @@
-**Jeny Mie Aguilo BSIT3A**
-
 
 node -v
 npm -v
