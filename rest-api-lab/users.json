@@ -1,0 +1,30 @@
+[
+  {
+    "CompanyName": "Tech Experts",
+    "EmployeeName": "James Arthur",
+    "Position": "Manager",
+    "Location": "Cebu City",
+    "Id": 2
+  },
+  {
+    "CompanyName": "Tech Experts",
+    "EmployeeName": "Billie Eilish",
+    "Position": "Analyst",
+    "Location": "Davao City",
+    "Id": 3
+  },
+  {
+    "CompanyName": "Tech Experts",
+    "EmployeeName": "Keshi White",
+    "Position": "Designer",
+    "Location": "Davao City",
+    "Id": 4
+  },
+  {
+    "CompanyName": "Tech Experts",
+    "EmployeeName": "Gracie Abrams",
+    "Position": "Developer",
+    "Location": "Davao City",
+    "Id": 5
+  }
+]
