@@ -1,39 +1,38 @@
-node -v
+- node -v
 
-npm -v
+- npm -v
 
-npm install express
+- npm install express
 
-npm install body-parser
+- npm install body-parser
 
-Make sure your server (server.js) is running before testing in Postman. Start it with:
+- npm install express --force// ADMINISTRATION
 
-node server.js 
-
-npm install express --force// ADMINISTRATION
-
-cd C:\Users\Username\Documents\PostMan-sample-main
+- cd C:\Users\Username\Documents\PostMan-sample-main
 
 **Create new project:**
 
-mkdir rest-api-lab //creates new folder
+- mkdir rest-api-lab //creates new folder
 
-cd rest-api-lab //navigates folder
+- cd rest-api-lab //navigates folder
 
-
-npm -init -y //initialize and creates json.package and dependencies
+- npm -init -y //initialize and creates json.package and dependencies
 
 
 **Setup project:**
 
-type nul > server.js
+- type nul > server.js
 
-type nul > users.json //create json file
+- type nul > users.json //create json file
 
 **In PowerShell, use the following command instead:**
 
 powershell
 
-New-Item -ItemType File server.js
+- New-Item -ItemType File server.js
 
-New-Item -ItemType File users.json
+- New-Item -ItemType File users.json
+
+**(Make sure your server (server.js) is running before testing in Postman)**
+
+- node server.js 
