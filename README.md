@@ -1,7 +1,9 @@
-...
 node -v
+
 npm -v
+
 npm install express
+
 npm install body-parser
 
 node server.js 
