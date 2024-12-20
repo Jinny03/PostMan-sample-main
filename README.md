@@ -7,6 +7,7 @@ npm install express
 npm install body-parser
 
 node server.js 
+(Make sure your server (server.js) is running before testing in Postman. Start it with:)
 
 npm install express --force// ADMINISTRATION
 
